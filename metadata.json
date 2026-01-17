@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 赛博修仙 (Cyber Cultivation)",
+  "description": "极简主义、魔性风格的微信小程序解压工具集。电子木鱼、赛博盘串、禁止蕉绿、AI修仙日报。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
